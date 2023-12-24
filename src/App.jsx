@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
-import arrowDown from './assets/arrow-down-339-svgrepo-com.svg';
-import arrowUp from './assets/arrow-up-340-svgrepo-com.svg';
-import clapSound from './sounds/clap.wav';
+import arrowDown from '/arrow-down-339-svgrepo-com.svg';
+import arrowUp from '/arrow-up-340-svgrepo-com.svg';
+import clapSound from '/clap.wav';
 import './App.css';
 
 function App() {
